@@ -11,7 +11,7 @@ Another good place to look for information is:
 https://doc.powerdns.com/authoritative/appendices/compiling.html
 
 To file bugs, head towards:
-https://github.com/PowerDNS/pdns/issues
+https://github.com/shanghaiopensource/issues
 
 But please check if the issue is already reported there first.
 
@@ -26,7 +26,7 @@ SOURCE CODE / GIT
 Source code is available on GitHub:
 
 ```sh
-git clone https://github.com/PowerDNS/pdns.git
+git clone https://github.com/shanghaiopensource/dns.git
 ```
 
 This repository contains the sources for the PowerDNS Recursor, the PowerDNS
