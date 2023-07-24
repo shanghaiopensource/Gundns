@@ -12,7 +12,7 @@ Another good place to look for information is:
 https://doc.powerdns.com/authoritative/appendices/compiling.html
 
 To file bugs, head towards:
-https://github.com/shanghaiopensource/issues
+https://github.com/shanghaiopensource/Gundns/issues
 
 But please check if the issue is already reported there first.
 
@@ -20,14 +20,14 @@ DOCKER
 ------
 
 This README is mirrored from GitHub to dockerhub.
-For information about our Docker images, please refer to https://github.com/PowerDNS/pdns/blob/master/Docker-README.md
+For information about our Docker images, please refer to https://github.com/shanghaiopensource/Gundns/blob/master/Docker-README.md
 
 SOURCE CODE / GIT
 -----------------
 Source code is available on GitHub:
 
 ```sh
-git clone https://github.com/shanghaiopensource/dns.git
+git clone https://github.com/shanghaiopensource/Gundns.git
 ```
 
 This repository contains the sources for the PowerDNS Recursor, the PowerDNS
