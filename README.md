@@ -1,8 +1,9 @@
-PowerDNS is copyright © 2001-2023 by PowerDNS.COM BV and lots of
+
+GunDNS is copyright © 2012-2023 by gundns.zylinkus.com BV and lots of
 contributors, using the GNU GPLv2 license (see NOTICE for the
 exact license and exception used).
 
-All documentation can be found on https://doc.powerdns.com/
+All documentation can be found on https://gundns.zylinkus.com/
 
 This file may lag behind at times. For most recent updates, always check
 https://doc.powerdns.com/authoritative/changelog/
